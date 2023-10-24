@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul Prasad and am currently working as an analyst in Globallogic Technologies Private Limited. 
+- 👋 Hi, I’m Rahul Prasad and am currently working as a Software Developer in Arborgold India Pvt Ltd. 
 - 👀 I’m interested in making websites.
 - 🌱 I’m currently learning react.js.
 - 💞️ I’m looking to change my job and become a web developer.
